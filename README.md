@@ -1,5 +1,5 @@
 This repository contains the source of the **O3** Cosmochrony paper  
-[*Projective Dynamics and Mass Hierarchy: Hierarchical Amplification via Growing Relational Valence*](out/SpectralO3.pdf).
+*Projective Dynamics and Mass Hierarchy: Hierarchical Amplification via Growing Relational Valence*.
 
 This work extends the **spectral relaxation programme** by addressing the
 remaining limitation identified in O1: the insufficient amplitude of the
